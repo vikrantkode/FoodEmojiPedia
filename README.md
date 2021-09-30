@@ -1,0 +1,2 @@
+# FoodEmojiPedia
+Created with CodeSandbox
